@@ -1,0 +1,6 @@
+@JPD.AutoRest.Demo_HostAddress = http://localhost:5294
+
+GET {{JPD.AutoRest.Demo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
