@@ -3,9 +3,6 @@
 > Automatically generate RESTful CRUD endpoints in ASP.NET Core using C# Source Generators.
 
 ![.NET Version](https://img.shields.io/badge/.NET-9.0-blueviolet)
-![License](https://img.shields.io/github/license/jpd21122012/JPD.AutoRest)
-![Build](https://img.shields.io/github/actions/workflow/status/jpd21122012/JPD.AutoRest/build.yml)
-
 ---
 
 ## ✨ Overview
