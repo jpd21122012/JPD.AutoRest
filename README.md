@@ -93,11 +93,22 @@ SDK-style project (.csproj)
 Minimal API style (WebApplication)
 
 🙋 FAQ
+
 ❓ Does it support nested or related entities?
 Currently, only top-level flat entities are supported. Support for relations (e.g. includes) may be added in a future version.
 
 ❓ Can I disable generation for certain methods?
-Not yet, but configuration flags via attribute parameters are planned.\
+Not yet, but configuration flags via attribute parameters are planned.
+
+
+📌 Roadmap
+ - [X] EF Core integration
+ - [ ] Filtering and paging support
+ - [X] DTO support
+ - [X] OpenAPI/Swagger doc integration
+ - [ ] Fine-grained generation controls (e.g. GeneratePut = false)
+
+
 
 📄 License
 This project is licensed under the MIT License — see the LICENSE file for details.
